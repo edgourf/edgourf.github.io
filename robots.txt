@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://edgourf.github.io/ypu/ypu.txt
